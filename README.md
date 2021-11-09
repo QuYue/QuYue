@@ -1,9 +1,11 @@
 - Hi, I’m QuYu, a PhD in School of Computer Science and Technology, Dalian University of Technology.
 - I’m interested in data mining, machine learning, deep learning, artificial intelligence.
 - I’m currently learning transfer learning.
+- Google Scholar: 
 
 - How to reach me? 
-  email: example15415941@qq.com
+  Email: example15415941@qq.com; quyue1541@mail.dlut.edu.cn
+  Google Scholar: https://scholar.google.com/citations?user=V_Q4vZsAAAAJ
 
 <!---
 QuYue/QuYue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
