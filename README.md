@@ -4,7 +4,7 @@
 - Google Scholar: 
 
 - How to reach me? 
-  > Email: example15415941@qq.com; quyue1541@mail.dlut.edu.cn
+  > Email: example15415941@qq.com; quyue1541@mail.dlut.edu.cn   
   > Google Scholar: https://scholar.google.com/citations?user=V_Q4vZsAAAAJ
 
 <!---
