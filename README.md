@@ -3,7 +3,7 @@
 - I’m currently learning transfer learning.
 
 - How to reach me? 
-  > Email: quyue1541@foxmail.com; quyue1541@mail.dlut.edu.cn; quyue1541@gmail.com   
+  > Email: quyue1541@foxmail.com; quyue1541@gmail.com; quyue1541@mail.dlut.edu.cn; 
   > Google Scholar: https://scholar.google.com/citations?user=V_Q4vZsAAAAJ    
   > Own Blog: https://quyue.github.io   
   > Github: https://github.com/QuYue    
