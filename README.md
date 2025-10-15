@@ -1,4 +1,4 @@
-- Hi, I’m QuYu, a PhD in School of Computer Science and Technology, Dalian University of Technology.
+- Hi, I’m YueQu, a PhD in School of Computer Science and Technology, Dalian University of Technology.
 - I’m interested in data mining, machine learning, deep learning, artificial intelligence.
 - I’m currently learning transfer learning.
 
